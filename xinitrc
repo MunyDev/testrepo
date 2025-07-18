@@ -1,0 +1,1 @@
+x11poll </dev/hvc3 >/dev/null & /bin/j17 java -cp /mnt/ji Main
